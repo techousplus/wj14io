@@ -1,12 +1,6 @@
 {
   "station": [
     {
-      "name": "Pulse EDM",
-      "streamURL": "http://naxos.cdnstream.com/1373_128",
-      "imageURL": "pulseedm.png",
-      "desc": "Elektroniğin Sesi"
-    },
-    {
       "name": "Pal Station",
       "streamURL": "http://shoutcast.radyogrup.com:1020/;",
       "imageURL": "palstation.png",
