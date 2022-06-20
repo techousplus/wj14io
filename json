@@ -350,7 +350,7 @@
     },
     {
       "name": "Kafa Radyo",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/kafaradyo/playlist.m3u8",
       "imageURL": "kafa-radyo-dinle.jpg",
       "desc": "Türkiye'nin en kafa radyosu!"
     },
@@ -404,7 +404,7 @@
     },
     {
       "name": "Pop Home",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8",
       "imageURL": "pophome.png",
       "desc": "Hit Türkçe Pop!"
     },
