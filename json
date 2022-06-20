@@ -212,55 +212,55 @@
     },
     {
       "name": "Number One",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/numberone",
       "imageURL": "N1_FM-1.png",
       "desc": "Türkiye'nin bir numarası"
     },
     {
       "name": "Number One Türk",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/00_Number1_Turk_FM.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/numberoneturk",
       "imageURL": "N1_TurkFM-1.png",
       "desc": "Daha Az Konuşma, Daha Çok Müzik"
     },
     {
       "name": "Number One Türk Damar",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/20_Number1_Turk_Damar.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/trdamar",
       "imageURL": "n1turkdamar.png",
       "desc": "Renkli Müzikler"
     },
     {
       "name": "Number One Dance",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/06_Number1_Dance.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/dance",
       "imageURL": "number1dance.png",
       "desc": "Dans zamanı!"
     },
     {
       "name": "Number One Rock",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/15_Number1_Rock.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/rock",
       "imageURL": "n1rock.png",
       "desc": "Rock Müzik Grupları"
     },
     {
       "name": "Number One Heart",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/10_Number1_Heart.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/heart",
       "imageURL": "n1heart.png",
       "desc": "Kalbinizi Isıtacak Şarkılar"
     },
     {
       "name": "Number One Slow",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/16_Number1_Slow.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/slow",
       "imageURL": "N1slow.png",
       "desc": "En Çok Dinlenen Slow Şarkılar"
     },
     {
       "name": "Number One Türk 90'lar",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/04_Number1_Turk_90.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/numberone90s",
       "imageURL": "n1-90lar.png",
       "desc": "90'lı Yılların Hitleri"
     },
     {
       "name": "Best of Number One",
-      "streamURL": "https://eustr75.mediatriple.net/Number1Media/29_Number1_BEST_OF.stream/playlist.m3u8",
+      "streamURL": "https://n10101m.mediatriple.net/bestof",
       "imageURL": "N1_BestOf.png",
       "desc": "Zamanın En İyileri"
     },
