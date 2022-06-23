@@ -338,7 +338,7 @@
     },
     {
       "name": "Radyo Voyage",
-      "streamURL": "http://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
+      "streamURL": "http://voyagewmp.radyotvonline.com/;",
       "imageURL": "voyagefmradyo.png",
       "desc": "Dünyanın Müziğine Yolculuk"
     },
