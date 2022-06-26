@@ -122,7 +122,7 @@
     },
     {
       "name": "SlowTurk",
-      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_slowturk?/;stream.mp3",
+      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
       "imageURL": "logo-slowturk.png",
       "desc": "Slow Türkçe müzik"
     },
@@ -368,7 +368,7 @@
     },
     {
       "name": "45'lik",
-      "streamURL": "https://stream.radyo45lik.com:4545/stream?/;stream.mp3",
+      "streamURL": "https://stream.radyo45lik.com:4545/stream",
       "imageURL": "radyo45.png",
       "desc": "Türk Müziğinde İz Bırakan Şarkılar"
     },
@@ -380,7 +380,7 @@
     },
     {
       "name": "CNN Türk Radyo",
-      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_cnnturk?/;stream.mp3",
+      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_cnnturk",
       "imageURL": "cnn-turk-canli.png",
       "desc": "İlk bilen siz olun"
     },
@@ -440,13 +440,13 @@
     },
     {
       "name": "Dream Türk Radyo",
-      "streamURL": "https://radyo.duhnet.tv/dreamturk?/;stream.mp3",
+      "streamURL": "https://radyo.duhnet.tv/dreamturk",
       "imageURL": "dreamturk.png",
       "desc": "Pop Hitler"
     },
     {
       "name": "Radyo D",
-      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_radyod?/;stream.mp3",
+      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_radyod",
       "imageURL": "radyo-d.png",
       "desc": "Müzik ve Haber"
     },
