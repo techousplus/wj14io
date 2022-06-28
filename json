@@ -424,7 +424,7 @@
       "name": "Radyo Spor",
       "streamURL": "https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8",
       "imageURL": "radyospor.png",
-      "desc": "Türküler artık her yerde"
+      "desc": "Türkiye'nin ilk spor radyosu."
     },
     {
       "name": "Radyo Fenerbahçe",
@@ -442,7 +442,7 @@
       "name": "Dream Türk Radyo",
       "streamURL": "https://radyo.duhnet.tv/dreamturk",
       "imageURL": "dreamturk.png",
-      "desc": "Pop Hitler"
+      "desc": "Hit Pop Şarkılar"
     },
     {
       "name": "Radyo D",
