@@ -278,7 +278,7 @@
     },
     {
       "name": "Mega FM",
-      "streamURL": "http://46.105.35.48:9346/;",
+      "streamURL": "https://ssl.radyosfer.com/megafm/stream",
       "imageURL": "megafm.png",
       "desc": "Ünlülerin Radyosu"
     },
