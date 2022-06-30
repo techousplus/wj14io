@@ -44,55 +44,55 @@
     },
     {
       "name": "Fenomen",
-      "streamURL": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8",
       "imageURL": "rfenomen.png",
       "desc": "Maksimum Hit Müzik"
     },
     {
       "name": "Fenomen Pop",
-      "streamURL": "http://fenomenoriental.listenfenomen.com/fenomenpop/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
       "imageURL": "logo25.png",
       "desc": "Popun kalbi burada atıyor"
     },
     {
       "name": "Fenomen Türk",
-      "streamURL": "http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
       "imageURL": "fenomenturk.png",
       "desc": "Eğlencenin Adresi"
     },
     {
       "name": "Fenomen Dans",
-      "streamURL": "https://listen.radyofenomen.com/fenomendans/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
       "imageURL": "fenomendans.png",
       "desc": "En İyi Dans Şarkıları"
     },
     {
       "name": "Fenomen Clubbin",
-      "streamURL": "http://fenomenclubbin.listenfenomen.com/fenomenclubbin/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomenclubbin/abr/fenomenclubbin/128/chunks.m3u8",
       "imageURL": "fenomenclubbin.png",
       "desc": "Club ve Disco Şarkıları"
     },
     {
       "name": "Fenomen Akustik",
-      "streamURL": "https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8",
       "imageURL": "fenomenakustik.png",
       "desc": "Hit Akustik Şarkılar"
     },
     {
-      "name": "Fenomen 2010'lar",
-      "streamURL": "https://listen.radyofenomen.com/fenomen2010/128/icecast.audio",
-      "imageURL": "fenomen2010lar.png",
-      "desc": "2010'ların Hitleri"
-    },
-    {
       "name": "Fenomen Karışık",
-      "streamURL": "https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
       "imageURL": "fenomenkarisik.png",
       "desc": "Türkçe ve Yabancı Şarkılar"
     },
     {
+      "name": "Fenomen 2010'lar",
+      "streamURL": "https://live.radyofenomen.com/fenomen2010/abr/fenomen2010/128/chunks.m3u8",
+      "imageURL": "fenomen2010lar.png",
+      "desc": "2010'ların Hitleri"
+    },
+    {
       "name": "Fenomen Rap",
-      "streamURL": "http://fenomenoriental.listenfenomen.com/fenomenrap/128/icecast.audio",
+      "streamURL": "https://live.radyofenomen.com/fenomenrap/abr/fenomenrap/128/chunks.m3u8",
       "imageURL": "fenomenrap.png",
       "desc": "Hip Hop ve Rap"
     },
