@@ -158,7 +158,7 @@
     },
     {
       "name": "Power FM",
-      "streamURL": "https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8",
+      "streamURL": "https://live.powerapp.com.tr/powerfm/abr/playlist.m3u8",
       "imageURL": "powerFM.png",
       "desc": "En İyi En Yeni Müzik"
     },
@@ -176,7 +176,7 @@
     },
     {
       "name": "Power Türk",
-      "streamURL": "https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+      "streamURL": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
       "imageURL": "powerturk.png",
       "desc": "Önce Müzik"
     },
