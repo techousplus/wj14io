@@ -434,7 +434,7 @@
     },
     {
       "name": "Hayatta Beşiktaş",
-      "streamURL": "https://ssl190.ozelip.com/asistan/stream/af82ab78740bd24928d4e402c7893001",
+      "streamURL": "http://5.135.14.22:7436/listen.pls",
       "imageURL": "hayattabesiktas.png",
       "desc": "Taraftarın Sesi!"
     },
